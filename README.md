@@ -1,8 +1,7 @@
 # Responsive Web Design
 
 # Description
-My repository of **responsive web design projects**, components, and templates built with **HTML5**, **CSS3**, and **JavaScript**.  
-This showcases practical examples of adaptive layouts, grid systems, and mobile-first design techniques for modern front-end development.
+My repository of **responsive web design projects**, components, and templates built with **HTML5**, **CSS3**, and **JavaScript**. This showcases practical examples of adaptive layouts, grid systems, and mobile-first design techniques for modern front-end development.
 
 # Features
    - ✅ **Fully Responsive Layouts** — optimized for desktop, tablet, and mobile views  
