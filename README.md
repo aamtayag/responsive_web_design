@@ -1,8 +1,8 @@
 # Responsive Web Design
 
 # Description
-A collection of **responsive web design projects**, components, and templates built with **HTML5**, **CSS3**, and **JavaScript**.  
-This repository showcases practical examples of adaptive layouts, grid systems, and mobile-first design techniques for modern front-end development.
+My repository of **responsive web design projects**, components, and templates built with **HTML5**, **CSS3**, and **JavaScript**.  
+This showcases practical examples of adaptive layouts, grid systems, and mobile-first design techniques for modern front-end development.
 
 # Features
    - ✅ **Fully Responsive Layouts** — optimized for desktop, tablet, and mobile views  
@@ -11,7 +11,6 @@ This repository showcases practical examples of adaptive layouts, grid systems, 
    - ✅ **CSS Grid & Flexbox** used for layout control  
    - ✅ **Media Queries** for adaptive behavior  
    - ✅ **Reusable Components** such as navigation bars, cards, and modals
-   - 
 
 # Technologies Used
    | Category                     | Tools / Frameworks |
@@ -22,3 +21,10 @@ This repository showcases practical examples of adaptive layouts, grid systems, 
    | **Version Control**          | Git & GitHub                  |
    | **Design Principles**        | Responsive Design, Mobile-First, Accessibility (a11y), SEO Basics |
 
+# Repository Contents (for updating)
+| Folder / File  | Description                                                       |
+|----------------|-------------------------------------------------------------------|
+| `Project_1/`   |                                                                   |
+| `Project_2/`   |                                                                   |
+| `Project_3/`   |                                                                   |
+| `README.md`    | Documentation (this file)                                         |
